@@ -1,0 +1,22 @@
+{
+  "wheel_id": 373,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-com-104",
+  "project": "home-loan-broker-gold-coast-red-flags-a46ad5a8a2968efa6f8f6bb81",
+  "parent_t1_ref": "homeloanbrokergoldcoast-com-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "home loan broker gold coast red flags",
+  "intended_url": "https://aumedia.neocities.org/home-loan-broker-gold-coast-red-flags-a46ad5a8a2968efa6f8f6bb81/",
+  "tier": "T2",
+  "writeback_nonce": "bd7132fafa81cd29",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-broker-gold-coast-2339876b683c3b0be388c326799773a3/",
+      "anchor": "a guide to home loan broker gold coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
